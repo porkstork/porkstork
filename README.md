@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there👋
+
+ - I'm Mati
+ - I'm a Computing Science Msci at RGU and aspiring software developer
+ - Enjoys creating websites seriously and casually
 
 <!--
 **porkstork/porkstork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
