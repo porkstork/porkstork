@@ -1,7 +1,7 @@
 ## Hi there👋
 
  - I'm Mati
- - I'm a Computing Science Msci at RGU and aspiring software developer
+ - I'm a Computing Science Msci at RGU and software developer
  - Enjoys creating websites seriously and casually
 
 <!--
